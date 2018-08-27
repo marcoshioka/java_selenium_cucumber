@@ -1,0 +1,3 @@
+Elaborado por Marcos Hioka
+
+1- Para realizar os testes, baixar o driver do Chrome e configurar o caminho onde está instalado no método "beforeScenario".
