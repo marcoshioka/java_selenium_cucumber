@@ -1,3 +1,6 @@
 Elaborado por Marcos Hioka
 
-1- Para realizar os testes, baixar o driver do Chrome e configurar o caminho onde está instalado no método "beforeScenario".
+1- Para realizar os testes, baixar o driver do Chrome e configurar o caminho de destino, no método "beforeScenario", da classe Hooks.
+2- Baixar todas as dependências do Maven.
+3- Alterar o caminho de destino da evidência, no método afterScenario.
+4- Executar o cenário da feature com o Cucumber.
